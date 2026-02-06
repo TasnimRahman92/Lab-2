@@ -1,40 +1,28 @@
 # Lab-2
-Author
-
+## Author
 Tasnim Rahman
 
-Description
+## Description
+This C++ graphics program draws two cyan-colored obtuse triangles positioned at opposite corners of the screen on an orange background.
 
-This program creates a cyan-colored graphics window with my full name displayed as the window title. When the user presses the first letter of my name ('T') from the keyboard, the window closes automatically.
+## Features
+- Orange background
+- Two cyan obtuse triangles
+- Triangles placed at distant corners (top-left and bottom-right)
 
-Language & Tools
+## Technologies Used
+- C++
+- graphics.h (WinBGIm)
 
-Programming Language: C++
+## How to Run
+1. Install a C++ compiler (Dev-C++, Code::Blocks, or Turbo C++)
+2. Make sure `graphics.h` is properly configured
+3. Compile and run the program
 
-Graphics Library: Graphics.h
+## Output
+- An orange screen
+- One cyan obtuse triangle at the top-left corner
+- One cyan obtuse triangle at the bottom-right corner
 
-IDE: VS Code
 
-Operating System: Windows
 
-How to Compile and Run
-
-Open the terminal in the project folder
-
-Compile the program using the compiler (e.g. g++ main.cpp -o main)
-
-Run the program using:
-
-main
-
-Key Functionality
-
-Window background color: Cyan
-
-Window title: Tasnim Rahman
-
-Press key 'T' to close the window
-
-Proof of Execution
-
-The output screenshot showing successful execution in the VS Code terminal is attached in the classroom submission.
